@@ -1,4 +1,4 @@
-#`Hindi-POS-Tagging-Using-HMM-with-Viterbi-Algo`
+# `Hindi-POS-Tagging-Using-HMM-with-Viterbi-Algo`
 
 [![made-with-python](https://img.shields.io/badge/Made%20With-Python-red?style=for-the-badge&logo=Python)](https://www.python.org/)
 
